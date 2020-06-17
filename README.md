@@ -14,8 +14,8 @@ The data has been split into smaller json files. To combine the data please use 
 ```
 cat filepPrefix* > finalFilename.json
 
-\\ For example to combine the data of the papers from papers directory, use the following command:
-cat papers* > fullPapers.json
+# For example to combine the data of the papers from papers directory, use the following command:
+# cat papers* > fullPapers.json
 ```
 
 ---------
